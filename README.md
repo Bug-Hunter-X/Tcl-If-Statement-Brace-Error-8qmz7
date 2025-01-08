@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Tcl if statements involving incorrect brace placement. The `bug.tcl` file contains the erroneous code, while `bugSolution.tcl` provides the corrected version.  The issue stems from misplacing the closing brace, leading to unintended conditional logic.
